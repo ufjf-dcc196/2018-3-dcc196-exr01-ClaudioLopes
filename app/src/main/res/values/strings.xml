@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exercicio6</string>
+    <string name="numero_de_participante">Numero de participante</string>
+    <string name="professor">Professor</string>
+    <string name="aluno">Aluno</string>
+    <string name="externo">Externo</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_sua_matricula">Digite sua matricula</string>
+    <string name="comfirmar">Comfirmar</string>
+    <string name="digite_seu_seape">Digite seu SEAPE</string>
+    <string name="digite_seu_email">Digite seu email</string>
+</resources>
